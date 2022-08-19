@@ -1,5 +1,5 @@
 body{
-  background: pink;
+  background: rgb(172, 197, 139);
 }
 h1{
   text-align: center;
@@ -96,7 +96,23 @@ li a:hover {
   margin: 20px;
   padding: 10px;
 }
-
+ .rodape {
+    position: absolute;
+    bottom: 0;
+    background: green;
+    color:red ;
+    width: 100%;
+    left: 0 ;
+    height:40px ;
+    display: flex ;
+    justify-content: center ;
+ }
+ .conteudo {
+    position: absolute;
+    top: 45px;
+    width: 100%;
+    background: yellow;
+ }
    
 
 
