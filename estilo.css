@@ -111,10 +111,9 @@ li a:hover {
     position: absolute;
     top: 45px;
     width: 100%;
-    background: rgb(21, 255, 0);
-    bottom: 0;
+    background:yellow;
     left: 0;
-
+   
  }
  .texto {
    position: absolute;
@@ -128,19 +127,40 @@ li a:hover {
  text-align: center;
  width: 100%;
  background: green;
+ left: 0;
  }
  .texto2 {
    position: absolute;
    top: 100px;
    left: 0;
    font-size: larger;
+   background: orange;
+   
  }
  .economia {
    top: 200px;
    left: 0;
    text-align: center;
  }
- 
+ .conteudo3 {
+   position: absolute;
+   top: 45px;
+   width: 100%;
+   background: orange;
+   left: 0;
+ }
+ .texto3 {
+   position: absolute;
+   top: 130px;
+   font-size: smaller;
+   background: lightgray;
+ }
+ .texto4 {
+   position: absolute;
+   top: 500px;
+   font-size: large;
+   background: lightblue;
+ }
 
 
 
