@@ -1,12 +1,12 @@
 body{
-  background: rgb(172, 197, 139);
+  background: rgb(247, 248, 246);
 }
 h1{
   text-align: center;
 }
 .caixa1 {
    position: absolute;
-   background: rgb(99, 153, 28);
+   background: rgb(30, 196, 15);
    width: 100px;
    height: 100px;
    color: #FFFFFF;
@@ -25,7 +25,7 @@ h1{
 }
 .caixa3 {
    position: absolute;
-   background: rgb(99, 153, 28);
+   background: rgb(187, 190, 182);
    width: 100px;
    height: 100px;
    color: #FFFFFF;
@@ -56,7 +56,7 @@ h1{
    position: absolute;
    width: 100%;
    height: 45px;
-   background: rgb(174, 211, 145);
+   background: rgb(71, 36, 197);
    top: 0;
    left: 0;
 }
@@ -113,7 +113,31 @@ li a:hover {
     width: 100%;
     background: yellow;
  }
-   
+ .texto {
+   position: absolute;
+   top: 130px;
+   left: 0;
+   font-size: larger;
+ }
+ .conteudo2 {
+ position: absolute;
+ top: 45px;                          
+ text-align: center;
+ width: 100%;
+ background: green;
+ }
+ .texto2 {
+   position: absolute;
+   top: 100px;
+   left: 0;
+   font-size: larger;
+ }
+ .economia {
+   top: 200px;
+   left: 0;
+   text-align: center;
+ }
+
 
 
 
