@@ -111,7 +111,10 @@ li a:hover {
     position: absolute;
     top: 45px;
     width: 100%;
-    background: yellow;
+    background: rgb(21, 255, 0);
+    bottom: 0;
+    left: 0;
+
  }
  .texto {
    position: absolute;
@@ -137,6 +140,7 @@ li a:hover {
    left: 0;
    text-align: center;
  }
+ 
 
 
 
