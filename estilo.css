@@ -99,7 +99,7 @@ li a:hover {
  .rodape {
     position: absolute;
     bottom: 0;
-    background: green;
+    background: rgb(41, 190, 41);
     color:red ;
     width: 100%;
     left: 0 ;
@@ -160,6 +160,15 @@ li a:hover {
    top: 500px;
    font-size: large;
    background: lightblue;
+ }
+ #egitoAntigo {
+    width: 100%;
+height: 600px;
+ 
+ }
+ #piramides {
+    width: 100%;
+    height: 400px;
  }
 
 
